@@ -1,0 +1,6 @@
+/root/employee-management-api/src/main/java/com/mani/devops/EmployeeManagementApiApplication.java
+/root/employee-management-api/src/main/java/com/mani/devops/controller/EmployeeController.java
+/root/employee-management-api/src/main/java/com/mani/devops/entity/Employee.java
+/root/employee-management-api/src/main/java/com/mani/devops/repository/EmployeeRepository.java
+/root/employee-management-api/src/main/java/com/mani/devops/service/EmployeeService.java
+/root/employee-management-api/src/main/java/com/mani/devops/service/EmployeeServiceImpl.java
