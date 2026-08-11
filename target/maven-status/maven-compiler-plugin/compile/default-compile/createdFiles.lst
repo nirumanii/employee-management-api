@@ -1,6 +1,0 @@
-com/mani/devops/repository/EmployeeRepository.class
-com/mani/devops/controller/EmployeeController.class
-com/mani/devops/EmployeeManagementApiApplication.class
-com/mani/devops/entity/Employee.class
-com/mani/devops/service/EmployeeServiceImpl.class
-com/mani/devops/service/EmployeeService.class
