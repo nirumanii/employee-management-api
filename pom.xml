@@ -134,4 +134,11 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+	    <snapshotRepository>
+		<id>nexus-snapshots</id>
+        	<url>http://3.93.187.21:8081/repository/maven-snapshots/</url>
+	    </snapshotRepository>
+	</distributionManagement>
+
 </project>
